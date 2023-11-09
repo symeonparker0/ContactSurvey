@@ -1,0 +1,21 @@
+.Contact {
+    text-align: center;
+    border: 1px solid black;
+    margin: 350px 750px;
+    font-family: 'Arbutus';font-size: 15px;
+    
+}
+input {
+    padding: 5px;
+}
+.FirsName{
+    padding-bottom: 15px;
+}
+.LastName{
+    padding-bottom: 15px;
+}
+.Submit {
+    padding: 15px;
+    
+    
+}
